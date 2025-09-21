@@ -277,7 +277,7 @@
         <repository>
             <id>github</id>
             <name>GitHub</name>
-            <url>https://maven.pkg.github.com/ShakalBotEnterprises/registry</url>
+            <url>https://maven.pkg.github.com/ShakalBotEnterprises/CI</url>
         </repository>
     </distributionManagement>
 </project>
